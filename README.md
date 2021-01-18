@@ -1,3 +1,1 @@
-# LawyersDemo
-Demo Version
-Here you can see demo project 
+# Demo version of my Project
